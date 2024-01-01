@@ -32,3 +32,13 @@ h1 {
   line-height: 27px;
   padding: 15px 30px;
 }
+#about {
+  text-align: center;
+  background-color: var(--secondary-color);
+}
+.form-control {
+  width: 50%;
+}
+.navbar-nav {
+  margin-left: auto;
+}
