@@ -71,3 +71,7 @@ h1 {
 .navbar-nav .nav-link {
   color: #fbe8d3 !important;
 }
+
+#about {
+  margin-top: 20px;
+}
