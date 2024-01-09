@@ -93,3 +93,8 @@ footer {
   padding-top: 15px;
   margin-top: 25px;
 }
+.fa-brands {
+  background-color: var(--secondary-color);
+  border-radius: 50%;
+  padding: 5px;
+}
